@@ -1,0 +1,3 @@
+test EMC
+firmware
+config gpio65 as output0
